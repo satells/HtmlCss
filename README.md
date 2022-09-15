@@ -58,8 +58,8 @@ Seção 2 - Trees
 
         Esta estrutura de dados é baseada na árvore genealógica.
 
-        !Árvore genealógica<img src="img/arvoregenealotica.png">
-        !Tree<img src="img/tree.png">
+        !Árvore genealógica<img src="./img/arvoregenealotica.png">
+        !Tree<img src="./img/tree.png">
 
 
 

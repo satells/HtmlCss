@@ -32,6 +32,7 @@ Seção 2 - Trees
         Linked lists
         Arrays
         Trees
+        
 
     Trees (Árvores)
 
@@ -55,10 +56,11 @@ Seção 2 - Trees
     <img src="tree.png" width="100" alt="accessibility text">
     </p>
         
+    
 
 
 
-
+![font samples - light](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-light.png)
 
 
 

@@ -65,8 +65,8 @@ Seção 2 - Trees
         
         Tree
 
-        ![alt text](https://@github.com:satells/htmlcss.git/blob/main/image.jpg?raw=true)
-        <img src="./img/tree.png">
+        ![alt text](https://raw.githubusercontent.com/satells/htmlcss/main/img/arvoregenealotica.png?raw=true)
+        
 
 
 

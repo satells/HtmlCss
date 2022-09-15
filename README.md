@@ -53,7 +53,10 @@ Seção 2 - Trees
         
         Tree
 
-        ![Screenshot](arvoregenealotica.png)
+        <p align="center">
+  <img src="arvoregenealotica.png" width="350" title="hover text">
+  <img src="arvoregenealotica.png" width="350" alt="accessibility text">
+</p>
         
 
 

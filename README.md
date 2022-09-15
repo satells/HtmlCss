@@ -56,6 +56,12 @@ Seção 2 - Trees
         ├── file_in_root.ext (leave)
         └── README.md (leave)
 
+        Esta estrutura de dados é baseada na árvore genealógica.
+
+        <img src="img/arvoregenealotica.png">
+        <img src="img/tree.png">
+
+
 
 
 

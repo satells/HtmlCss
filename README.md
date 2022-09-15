@@ -52,8 +52,13 @@ Seção 2 - Trees
 
         
         
-        <<Tree>>
+        <<Árvore genealógica>>
 ![font samples - light](https://github.com/satells/htmlcss/raw/main/img/arvoregenealotica.png)
+
+
+        <<Tree>>
+![font samples - light](https://github.com/satells/htmlcss/raw/main/img/tree.png)
+
 
 
 

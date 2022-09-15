@@ -64,7 +64,8 @@ Seção 2 - Trees
         
         
         Tree
-        ![plot](./img/tree.png)
+
+        ![alt text](https://@github.com:satells/htmlcss.git/blob/main/image.jpg?raw=true)
         <img src="./img/tree.png">
 
 

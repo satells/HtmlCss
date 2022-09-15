@@ -33,7 +33,7 @@ Seção 2 - Trees
         <<Árvore genealógica>>
 ![font samples - light](https://github.com/satells/htmlcss/raw/main/img/arvoregenealotica.png)
 
-    A partir de um "node".
+    A partir de um "node" temos.
     root
     ancestors
     parent

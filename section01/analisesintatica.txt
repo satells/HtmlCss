@@ -1,0 +1,106 @@
+Sujeito
+
+É a parte da oração da qual se declara alguma coisa.
+Determinado
+• Simples (um só núcleo):
+Eu entrei.
+• Composto (mais de um núcleo):
+Eu e ela entramos.
+• Implícito na desinência verbal:
+Entramos. (sujeito: nós)
+Indeterminado
+• Com verbo na terceira pessoa do plural:
+Discutiram calorosamente a questão.
+• Com verbo intransitivo, transitivo indireto, de ligação ou transitivo direto com objeto direto preposicionado na terceira pessoa do singular + se:
+Trabalha-se durante o dia.
+Precisa-se de bons professores.
+Está-se feliz aqui.
+Estima-se a Paulo assim como a Júlio.
+Inexistente
+• Com verbos impessoais:
+Nevou em Santa Catarina.
+Não havia testemunhas.
+Oracional
+Com VLig + predicativo + QUE
+É preciso que haja muita compreensão para com os amigos.
+Com verbo na voz passiva sintética ou analítica + QUE ou SE
+Dir-se-ia que ele deve receber o prêmio.
+Com verbo unipessoal + QUE
+Importa que nós compareçamos à reunião. 
+
+
+
+Predicado
+
+É a parte da oração que contém o verbo e traz uma informação, geralmente sobre o sujeito.
+• Verbal (com verbo significativo, sem predicativo):
+Eu entrei.
+• Nominal (com verbo de ligação + predicativo):
+Eu estou cansado.
+• Verbo-nominal (com verbo significativo + predicativo do sujeito ou do objeto):
+Eu entrei cansado.
+Predicação verbal
+• Verbo de ligação (com predicativo obrigatório, indica estado e liga o sujeito ao predicativo);
+• Verbo transitivo (significativo, necessita de complemento que se liga diretamente ou indiretamente);
+- transitivo direto (liga-se ao objeto sem a presença da preposição)
+- transitivo indireto (liga-se ao objeto por meio de preposição)
+- transitivo direto e indireto (tem dois objetos, um direto e um indireto)
+• Verbo intransitivo (tem sentido completo, não exige complemento).
+
+
+Predicativo
+
+Núcleo do predicado nominal, atribui qualidades ao sujeito ou ao objeto por intermédio de um verbo. 
+
+
+
+Objetos direto e indireto
+
+ (complementos verbais) 	São associados ao verbo e o complementam, indicando o alvo da ação verbal.
+• Objeto direto (sem preposição):
+Contemplei o espetáculo. 
+
+
+
+
+
+
+Complemento nominal
+É o termo que complementa o sentido de certos nomes (substantivos, adjetivos e advérbios) dotados de transitividade, da qual o complemento nominal funciona como alvo.
+• CN de substantivos (sempre abstratos, se forem concretos, serão adjuntos adnominais):
+O combate 
+
+
+Agente da passiva
+É o termo que indica o praticante da ação verbal em orações na voz passiva. Vem sempre associado a um verbo no particípio. É sempre preposicionado.
+Observação: o agente da passiva é sempre precedido de preposição e, assim como o sujeito, pode estar implícito ou indeterminado na oração com voz passiva sintética, podendo vir expresso na voz passiva analítica.
+Às 15 horas, a aula de história foi iniciada pelo professor.
+Às 15 horas, iniciou-se a aula de história. 
+
+
+
+
+Adjunto adnominal
+É o termo que caracteriza um substantivo da oração sem o intermédio de verbo. Pode ser formado por artigos, numerais, adjetivos, locuções adjetivas, pronomes possessivos, demonstrativos, indefinidos e interrogativos, e o relativo cujo.
+Observação: Os pronomes pessoais retos e oblíquos e os de tratamento têm valor de substantivo e exercem funções de sujeito e complemento verbal, não podendo ser AA. 
+
+
+
+
+
+Adjunto adverbial
+É o termo associado a um verbo, a um adjetivo, a um outro advérbio ou uma oração inteira e expressa uma circunstância (tempo, modo, lugar, causa, finalidade, etc.), modificando o sentido do termo a que se refere:
+Ela vive bem.
+Ela vive muito bem.
+Ontem, eles tinham uma vida proporcionalmente boa. 
+
+
+Aposto
+É o termo que explica, enumera, desenvolve, especifica ou resume um substantivo da oração, ao qual é equivalente. 
+
+
+
+
+Vocativo
+(Termo independente)
+	É um termo isolado dentro da oração e que é usado para chamar ou interpelar o interlocutor.

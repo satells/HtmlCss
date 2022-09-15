@@ -43,18 +43,6 @@ Seção 2 - Trees
         Branches (galhos) - ficam abaixo
         Leaves (folhas) - ficam nas extremidades
 
-        $ tree
-        . (root)
-        ├── dir1 (branch)
-        │   ├── file11.ext (leave)
-        │   └── file12.ext (leave)
-        ├── dir2 (branch)
-        │   ├── file21.ext (leave)
-        │   ├── file22.ext (leave)
-        │   └── file23.ext (leave)
-        ├── dir3 (branch)
-        ├── file_in_root.ext (leave)
-        └── README.md (leave)
 
         Esta estrutura de dados é baseada na árvore genealógica.
 

@@ -52,17 +52,7 @@ Seção 2 - Trees
 
         
         
-        Tree
-
-    <p align="center">
-    <img src="arvoregenealotica.png" width="100" title="hover text">
-    <img src="tree.png" width="100" alt="accessibility text">
-    </p>
-        
-    
-
-
-                        
+        <<Tree>>
 ![font samples - light](https://github.com/satells/htmlcss/raw/main/img/arvoregenealotica.png)
 
 

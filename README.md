@@ -23,9 +23,11 @@ Seção 2 - Trees
 
     Conceito
 
-        Estrutura de dados - uma maneira de organizar dados para que o computador possa acessar e modificar com rapidez e eficiência.
+        Estrutura de dados - uma maneira de organizar dados para que o computador 
+        possa acessar e modificar com rapidez e eficiência.
 
-        Doubly linked list (lista encadeada) - a memórida do computador é organizada com esta estrutura de dados.
+        Doubly linked list (lista encadeada) - a memórida do computador é organizada 
+        com esta estrutura de dados.
 
         Outros exemplos
 
@@ -36,7 +38,8 @@ Seção 2 - Trees
 
     Trees (Árvores)
 
-        Esta estrutura de dados é perfeita para armazenar o tipo de informação que precisamos quando usamos HTML e CSS.
+        Esta estrutura de dados é perfeita para armazenar o tipo de 
+        informação que precisamos quando usamos HTML e CSS.
 
         Na Ciência da Computação "Tree" é representada de cabeça para baixo.
 
